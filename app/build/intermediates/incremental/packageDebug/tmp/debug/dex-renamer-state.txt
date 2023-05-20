@@ -1,0 +1,4 @@
+#Sat May 20 20:19:21 MSK 2023
+base.0=C\:\\Users\\vova2\\QR_F_v1\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

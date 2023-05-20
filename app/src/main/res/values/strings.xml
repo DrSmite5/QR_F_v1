@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QR_v1</string>
+    <string name="qr_scanner">QR Scanner</string>
+    <string name="scan">Scan</string>
+    <string name="recent_scanned">History</string>
+    <string name="favoorites">Favourites</string>
+    <string name="recent_scanned_results">Recent Scanned Results</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
